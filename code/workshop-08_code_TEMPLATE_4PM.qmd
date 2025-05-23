@@ -1,8 +1,8 @@
 ---
 title: "Workshop 8 TEMPLATE"
-subtitle: "Thursday 4 PM"
-author: "An Bui"
-date: "2025-05-22"
+subtitle: "Friday 10 AM"
+author: "Jess Rousselle"
+date: "2025-05-23"
 format:
   html:
     toc: true # use this to display a table of contents
