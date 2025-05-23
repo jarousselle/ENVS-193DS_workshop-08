@@ -1,8 +1,8 @@
 ---
 title: "Workshop 8 TEMPLATE"
-subtitle: "insert your section time here"
-author: "insert your name here"
-date: "insert your name here"
+subtitle: "Friday 10 AM"
+author: "Jess Rousselle"
+date: "2025-05-23"
 format:
   html:
     toc: true # use this to display a table of contents
@@ -44,6 +44,10 @@ library(ggeffects) # getting model predictions
 library(MuMIn) # model selection
 
 # read in your data here
+drought_exp <- read_xlsx(
+  here("data", "Valliere_etal_EcoApps_Data.xlsx"),
+  sheet = "First Harvest"
+)
 
 ```
 
